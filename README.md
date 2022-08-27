@@ -8,7 +8,7 @@ Capable of recognising digits 0-9<br>
 Final model consists of 5 hidden layer, validation accuracy = 0.9894
 
 <br><br>
-GUI opertaion:
+GUI opertaion:<br>
 Press left mouse key and drag simultaneously to draw<br>
 Press right mouse key to erase drawing<br>
 Press enter to analyse drawing
